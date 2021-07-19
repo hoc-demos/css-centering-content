@@ -1,0 +1,51 @@
+
+body {
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* body {
+  margin-left:auto;
+  margin-right:auto;
+  width:300px;
+} */
+
+
+.box {
+    background-color: deeppink;
+    color:white;
+    border-width: 5px;
+    border-style:solid;
+    border-color:dodgerblue;
+    margin-bottom:40px;
+    padding:40px;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
