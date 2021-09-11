@@ -1,7 +1,12 @@
 
 .container {
-  /* width:85%;
-  margin: 0 auto; */
+  width:85%;
+  margin: 0 auto;
+}
+
+.row0 {
+  background-color:brown;
+  color:white;
 }
 .row1 {
   /* background-color:aqua;
